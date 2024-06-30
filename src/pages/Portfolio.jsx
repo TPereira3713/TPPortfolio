@@ -8,7 +8,7 @@ const projects = [
   {
     img: project1,
     title: 'Project #1',
-    description: 'MERN Stack application that lets users buy and sell their products in an auction. (In development - You can register, login and logout)',
+    description: 'MERN Stack application that lets users buy and sell their products in an auction. (In development - You can register, login, logout, post and bid)',
     links: {
       site: '#',
       github: 'https://github.com/TPereira3713/LeilaoApp'
